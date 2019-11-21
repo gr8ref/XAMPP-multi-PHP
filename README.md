@@ -1,2 +1,8 @@
 # XAMPP-multi-PHP
-Xampp server multi php versions
+Xampp server multi php versions on Windows
+
+In C:\xampp\ add two versions of php, in my case php7 and php5. Just download php versions from windows.php.net
+Also, get two folders apache7 and apache5, and phpmyadmin5 and phpmyadmin7, downloaded from XAMPP download page, to make sure .bat files can run correctly.
+
+Make sure you install apache and mysql as a service
+Run as administrator set-php-5.bat or set-php-7.bat
